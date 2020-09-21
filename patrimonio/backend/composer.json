@@ -1,0 +1,8 @@
+{
+    "require": {
+        "firebase/php-jwt": "^5.2",
+        "spomky-labs/jose": "^7.1",
+        "miladrahimi/php-jwt": "^2.1",
+        "mpdf/mpdf": "^8.0"
+    }
+}
